@@ -1,0 +1,176 @@
+{
+	[
+		{
+			"id":1,
+			"nama":"Kota Tua",
+			"kategori":"Bangunan Sejarah",
+			"alamat":"Mangga Besar, Kec. Taman Sari, Kota Jakarta Barat",
+			"deskripsi":"Merupakan Bangunan Tua peninggalan Belanda.",
+			"maps":"-6.134816, 106.813651",
+			"gambar":"https://akcdn.detik.net.id/community/media/visual/2019/04/17/d3c4247e-e04c-4a3d-b0e2-8ef3f28cfb55_169.jpeg?w=780&q=90"
+		}, 
+		
+		{
+			"id":2,
+			"nama":"Monas",
+			"kategori":"Bangunan Sejarah",
+			"alamat":"Gambir Kec. Gambir Kota Jakarta Pusat",
+			"deskripsi":"Tugu Monas merupakan monumen berbentuk tugu obelisk, dibangun berdasarkan perintah presiden pertama RI, Ir. Seokarno. Pembangunannya dimulai tanggal 17 Agustus 1961 dan secara resmi dibuka untuk umum pada tanggal 12 Juli 1975.",
+			"maps":"-6.175040, 106.827153",
+			"gambar":"https://mmc.tirto.id/image/otf/700x0/2018/07/28/ilustrasi-monas-2_ratio-16x9.jpg"
+		}, 
+
+		{
+			"id":3,
+			"nama":"Taman Impian Ancol",
+			"kategori":"Hiburan",			
+			"alamat":"Kec. Pademangan Kota Jakarta Utara",
+			"deskripsi":"Destinasi wisata ini merupakan sebuah kawasan wisata terpadu yang dilengkapi dengan ragam fasilitas bertaraf internasional dengan luas area hingga 552 hektar.",
+			"maps":"-6.124072, 106.844767",
+			"gambar":"https://asset.kompas.com/crops/ClxctWi5u6XYEMHtJ13wfRPX5UQ=/69x0:1149x720/750x500/data/photo/2019/04/17/2507969107.jpeg"
+		},
+
+		{
+			"id":4,
+			"nama":"Taman Mini Indonesia Indah",
+			"kategori":"Hiburan",			
+			"alamat":"Ceger, Cipayung, Jakarta Timur, DKI Jakarta",
+			"deskripsi":"Jika jalan-jalan ke Jakarta, destinasi yang tak boleh terlewat ialah Taman Mini Indonesia Indah. Taman dengan luas hingga 150 hektar ini bisa dikatakan sebagai miniaturnya Indonesia.",
+			"maps":"-6.302137, 106.895252",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Taman-Mini-Indonesia-Indah.jpg"
+		},
+
+		{
+			"id":5,
+			"nama":"Pulau Kelapa",
+			"kategori":"Pantai",			
+			"alamat":"Kepulauan Seribu, DKI Jakarta",
+			"deskripsi":"Seperti di Kepulauan Seribu misalnya yang menyuguhkan keindahan alam pulau-pulau kecil nan eksotis yang masih alami, salah satunya ialah Pulau Kelapa.",
+			"maps":"-5.654422, 106.567903",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Pulau-Kelapa.jpg"
+		},
+
+		{
+			"id":6,
+			"nama":"Planetarium Jakarta",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Cikini Raya No.73, Cikini, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+			"deskripsi":"Belajar mengenal system tata surya, seperti apa planet dan benda-benda luar angkasa lainnya menjadi satu hal yang menarik.",
+			"maps":"-6.189837, 106.838800",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Planetarium-Jakarta-1.jpg"
+		},
+
+		{
+			"id":7,
+			"nama":"Taman Wisata Alam Mangrove, Angke Kapuk",
+			"kategori":"Hiburan",			
+			"alamat":"Jalan Garden House, Kamal Muara, Penjaringan, Kota Jakarta Utara, DKI Jakarta",
+			"deskripsi":"Taman Wisata Alam Mangrove Angke Kapuk yang berada di kawasan Penjaringan-Jakarta Utara. Tempat wisata di Jakarta ini punya banya spot menarik untuk dikunjungi.",
+			"maps":"-6.104971, 106.735541",
+			"gambar":"https://foresteract.com/wp-content/uploads/2018/09/Suasana-Tentram-di-Jakarta-ada-di-TWA-Angke-Kapuk.jpg"
+		},
+
+		{
+			"id":8,
+			"nama":"Waterboom PIK",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Pantai Indah Barat, Kamal Muara, Penjaringan, Kota Jakarta Utara, DKI Jakarta",
+			"deskripsi":"Tempat wisata di Jakarta yang juga cukup populer dan banyak diminiati untuk mengisi waktu libur ialah Waterboom yang berada di kawasan Pantai Indah Kapuk.",
+			"maps":"-6.113569, 106.747783",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Waterboom-Jakarta.png"
+		},
+
+		{
+			"id":9,
+			"nama":"Ecopark Ancol",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Lodan Timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+			"deskripsi":" Ecopark Ancol bisa jadi pilihan anda. Disini, terdapat berbagai wahana permainan dan juga games yang asyik banget.",
+			"maps":"-6.125524, 106.836357",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/eco-bike.jpg"
+		},
+
+		{
+			"id":10,
+			"nama":"Kidzania",
+			"kategori":"Hiburan",			
+			"alamat":"Pacific Place L6 – 601 Sudirman Central Business, Jalan Jendral Sudirman No.52-53, Senayan, Kebayoran Baru Kota Jakarta Selatan, DKI Jakarta",
+			"deskripsi":"Tempat wisata di Jakarta yang satu ini bisa jadi destinasi menarik untuk anak-anak Anda, tak hanya untuk bermain tetapi juga belajar.",
+			"maps":"-6.224764, 106.809650",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Kidzania.jpg"
+		},
+
+
+		{
+			"id":11,
+			"nama":"Alive Museum Jakarta",
+			"kategori":"Museum",			
+			"alamat":"Ancol Beach City Mall, 3rd Floor Jalan Ancol Beach City Pademangan, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+			"deskripsi":"Ingin berfoto dengan latar 3 dimensi? kunjungi saja Alive Museum Jakarta. Di tempat ini anda bisa berfoto di berbagai spot yang memberikan efek 3 dimensi. Anda seolah-olah berada dalam lukisan yang ada di tempat ini.",
+			"maps":"-6.117405, 106.857790",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2018/11/Alive-Star-Museum-Spot-2.jpg"
+		},
+
+		{
+			"id":12,
+			"nama":"Pantai Ancol",
+			"kategori":"Pantai",			
+			"alamat":"Daerah Khusus Ibukota Jakarta",
+			"deskripsi":"Pantai Ancol merupakan salah satu pantai di Jakarta yang menjadi tujuan wisata sejak dulu kala. Jika bicara soal pantai di Jakarta, nama pantai Ancol pasti akan selalu di ingat pertama kali. Pantai ini berada di area Ancol, sehingga anda bisa sekaligus berkunjung ke berbagai tempat lainnya.",
+			"maps":"-6.119145, 106.850192",
+			"gambar":"https://travelspromo.com/wp-content/uploads/2019/08/Kawasan-wisata-Pantai-Ancol-Jakarta-Utara-Asmar-SIAGIAN-e1566443823510-681x425.jpg"
+		},
+
+		{
+			"id":13,
+			"nama":"DUFAN",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Lodan Timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+			"deskripsi":"Disini terdapat berbagai wahana permainan yang bisa dinikmati bersama keluarga. Tempatnya berada di area Taman Impian Jaya Ancol. Anda bisa sekalian mengunjungi berbagai tempat wisata lain yang ada di area ini.",
+			"maps":"-6.124992, 106.833527",
+			"gambar":"https://photo.kontan.co.id/photo/2019/04/25/1760223131p.jpg"
+		},
+
+		{
+			"id":14,
+			"nama":"Kebun Binatang Ragunan",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Harsono RM No.1, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
+			"deskripsi":"Salah satu kebun binatang tertua di Indonesia, Kebun Binatang Ragunan bisa jadi tujuan liburan keluarga di Jakarta. Di Kebun Binatang Ragunan, anda bisa membawa si kecil mengenal berbagai satwa, baik yang berasal dari Indonesia ataupun luar.",
+			"maps":"-6.310994, 106.819660",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Taman-Refleksi.jpg"
+		},
+
+		{
+			"id":15,
+			"nama":"Sea World Ancol",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Lodan timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+			"deskripsi":"Jika anda ingin mengenalkan keberagaman dunia laut, Sea Word Ancol bisa anda jadikan tujuan nih. Di Sea World Ancol, terdapat banyak wahana dan aquarium dengan beragam jenis binatang laut. Anda bisa berekreasi sekaligus belajar disana.",
+			"maps":"-6.125757, 106.842843",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Sea-World-Ancol.jpg"
+		},
+
+		{
+			"id":16,
+			"nama":"Trans Snow World",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Ir. H. Juanda No.180, RT.003/RW.011, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113",
+			"deskripsi":"Tempatnya memang bukan di Jakarta, tapi lebih tepatnya di Bekasi. Di Trans Snow World, anda bisa menikmati suasana salju musim dingin di perbukitan buatan yang luas. Tidak cuma itu, anda juga bisa bermain berbagai wahana salju yang tersedia disana.",
+			"maps":"-6.249538, 107.016596",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/03/bermain-salju-di-trans-snow-world-bekasi.jpeg"
+		},
+
+
+		{
+			"id":19,
+			"nama":"Museum Fatahillah",
+			"kategori":"Museum",			
+			"alamat":"Jalan Taman Fatahillah No.1, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110",
+			"deskripsi":"Museum Fatahillah menyimpan banyak cerita sejarah Jakarta dari tempo dulu. Anda bisa berwisata sekaligus mempelajari sejarah panjang kota Jakarta disini.",
+			"maps":"-6.134933, 106.813193",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Koleksi.jpeg"
+		}
+
+	]
+	}
